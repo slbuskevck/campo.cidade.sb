@@ -1,0 +1,48 @@
+.cabecalho{
+    color:rgb(14, 29, 27);
+    background-color: rgb(18, 90, 82);
+    text-align: center;
+    padding: 30px;
+}
+
+.cabecalho h3{
+    color: rgb(14, 27, 21);
+}
+.cabecalho h3 {
+    color: rgb(14, 29, 27);
+}
+
+.secao-producao {
+    background-color: #0e3325;
+    padding: 60px 0;
+}
+
+.secao-producao h2 {
+    font-weight: bold;
+}
+
+.secao-producao ul {
+    font-size: 1.1rem;
+    line-height: 1.8;
+}
+
+.img-galeria {
+    transition: transform 0.3s;
+}
+
+.img-galeria:hover {
+    transform: scale(1.05);
+}
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 18px;
+    word-wrap: break-word;
+}
+
+footer p {
+    margin: 0;
+    padding: 0;
+}

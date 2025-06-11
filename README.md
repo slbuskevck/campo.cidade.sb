@@ -1,1 +1,1 @@
-# campo.cidade.sb
+# campo-cidade
